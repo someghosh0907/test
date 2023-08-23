@@ -1,1 +1,3 @@
-
+Name: Soumyajit Ghosh
+Skills: HTML, CSS, JS, C ,Git ,GitHub ,DSA ,C++ ,Bootstrap ,JavaScript ,ReactJs ,MySQL, MongoDb
+Email: soumyajit.ghosh0907@gmail.com
